@@ -3,7 +3,6 @@
 It's no secret that I have an incredible love for horror movies. The **31 Nights of Horror** series began in 2015 as a way to work on a fun design and coding project while creating a resource for others who are unsure where to turn for good holiday horror.
 
 ### 2015 Summary - [View Online](http://yuschick.github.io/31-Nights-of-Horror-2015/)
-
 The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'best' I mean, my personal favorites. This year included only a few lesser known recommendations with little regard toward streaming access or language. At the time, I didn't know this project would become an annual series but at this point has become my favorite project every year.
 
 31 nights, 35 movies spanning different eras and genres. Themed double-feature Sundays, Slasher Saturdays, Throwback Thursdays, and more - are you up for the horror challenge?
@@ -15,8 +14,13 @@ The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'b
 [View the 2016 Calendar](http://www.danyuschick.com/31-nights-of-horror/)  
 2017 - Coming 29.9.2017
 
-### Movies
+### Rules
+- No movies can repeat across calendars (*with the exception of Halloween*)
+- I must watch every movie before it can be added to the list
+- Aim for a balance of eras, sub-genres, and languages
+- Alliterative themes
 
+### Movies
 - Night of the Living Dead
 - Eden Lake
 - Nightmare on Elm Street
@@ -54,7 +58,6 @@ The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'b
 - Halloween
 
 ## Tech Notes
-
 - Html, CSS, JavaScript
 - Sass, jQuery, Handlebars, Moment
 
