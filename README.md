@@ -2,7 +2,7 @@
 
 It's no secret that I have an incredible love for horror movies. The **31 Nights of Horror** series began in 2015 as a way to work on a fun design and coding project while creating a resource for others who are unsure where to turn for good holiday horror.
 
-**2015 Summary** - [View Online](http://yuschick.github.io/31-Nights-of-Horror-2015/)
+### 2015 Summary - [View Online](http://yuschick.github.io/31-Nights-of-Horror-2015/)
 
 The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'best' I mean, my personal favorites. This year included only a few lesser known recommendations with little regard toward streaming access or language. At the time, I didn't know this project would become an annual series but at this point has become my favorite project every year.
 
@@ -10,10 +10,12 @@ The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'b
 
 [![31 Nights of Horror 2015](https://github.com/yuschick/31-Nights-of-Horror-2015/raw/master/screenshot.jpg)](http://yuschick.github.io/31-Nights-of-Horror-2015/)
 
-### Other Calendars
-[View the 2016 Calendar](http://www.danyuschick.com/31-nights-of-horror/)
+### All Calendars
+[View the 2015 Calendar](http://yuschick.github.io/31-Nights-of-Horror-2015/)  
+[View the 2016 Calendar](http://www.danyuschick.com/31-nights-of-horror/)  
+2017 - Coming 29.9.2017
 
-## Movies
+### Movies
 
 - Night of the Living Dead
 - Eden Lake
