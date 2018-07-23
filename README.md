@@ -13,6 +13,7 @@ The 2015 calendar served primarily as a *Best Of* in horror. And of course by 'b
 [View the 2015 Calendar](http://yuschick.github.io/31-Nights-of-Horror-2015/) - [Repo](https://github.com/yuschick/31-Nights-of-Horror-2015)  
 [View the 2016 Calendar](http://www.danyuschick.com/31-nights-of-horror/) - [Repo](https://github.com/yuschick/31-Nights-of-Horror-2016)  
 [View the 2017 Calendar](http://yuschick.github.io/31-Nights-of-Horror-2017/) - [Repo](https://github.com/yuschick/31-Nights-of-Horror-2017)  
+[View the 2018 Calendar](http://yuschick.github.io/31-Nights-of-Horror-2018) - [Repo](https://github.com/yuschick/31-Nights-of-Horror-2018)  
 
 ### Rules
 - No movies can repeat across calendars (*with the exception of Halloween*)
